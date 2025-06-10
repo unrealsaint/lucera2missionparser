@@ -1,2 +1,2 @@
-ttkthemes==3.2.2
-customtkinter==5.2.1 
+PySide6==6.4.2
+lxml==5.1.0 
